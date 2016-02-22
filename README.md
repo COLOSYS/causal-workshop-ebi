@@ -3,23 +3,23 @@ between resources/langauages capturing causal reasoning information in molecular
 and cellular biology.
 
 Resources:
-  * [The Gene Ontology](http://geneontology.org)) - [schema]()
-  * [GRECO](http://www.thegreco.org)  - [schema]()
-  * [Signor](http://signor.uniroma2.it/)  - [schema]()
-  * [SignaLink](http://signalink.org/)  - [schema]()
-  * [InTact]()  - [schema]()
+  * [The Gene Ontology](http://geneontology.org)) - [schema_docs](doc/GO)
+  * [GRECO](http://www.thegreco.org)  - [schema_docs](doc/GRECO)
+  * [Signor](http://signor.uniroma2.it/)  - [schema_docs](doc/Signor)
+  * [SignaLink](http://signalink.org/)  - [schema_docs](doc/SignaLink)
+  * [InTact](http://www.ebi.ac.uk/intact/)  - [schema_docs](doc/InTact)
  
 Languages:
   * [OpenBel](http://wiki.openbel.org/display/BLD/Statement+Examples+-+Causal)
     * Open data in OpenBel: 
-    * Also available as [RDF](http://wiki.openbel.org/display/BEL2RDF/BEL+to+RDF+Home)
+    * [RDF conversion available](http://wiki.openbel.org/display/BEL2RDF/BEL+to+RDF+Home)
     
 Tools:
   * [CausalR]()  - [schema]()
      * Open data in CausalR:
 
  Each of these resources captures, or is begining to capture causal
- information.  There are many commonalities between the information
+ information.  There are many commonalities between the causal information
  being captured.  This site aims to document and align the vocabularies and
  semantics used by each of these resources.
   
@@ -29,13 +29,14 @@ Tools:
     README.md
      GO/
           README.md
-          GO_causal_schema.md
      GRECO/
          README.md
-         GRECO_causal_schema.md
-     Signor
-         Signor_causal_schema.md
+     Signor/
+         README.md
 	 Signor - example data
-     SignaLink
-     InTact
+     SignaLink/
+         README.md
+     IntAct/
+         README.md
+ 
   
