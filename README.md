@@ -3,7 +3,7 @@ between resources/langauages capturing causal reasoning information in molecular
 and cellular biology.
 
 Resources:
-  * [The Gene Ontology](http://geneontology.org)) - [schema_docs](doc/GO)
+  * [The Gene Ontology](http://geneontology.org) - [schema_docs](doc/GO)
   * [GRECO](http://www.thegreco.org)  - [schema_docs](doc/GRECO)
   * [Signor](http://signor.uniroma2.it/)  - [schema_docs](doc/Signor)
   * [SignaLink](http://signalink.org/)  - [schema_docs](doc/SignaLink)
@@ -24,7 +24,8 @@ Tools:
  semantics used by each of these resources.
   
  Repository structure:
-  
+
+~~~~~~~~~.sh  
   doc/
     README.md
      GO/
@@ -38,5 +39,5 @@ Tools:
          README.md
      IntAct/
          README.md
- 
+~~~~~~~~~~~~
   
