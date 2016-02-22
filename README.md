@@ -18,10 +18,13 @@ Tools:
   * [CausalR]()  - [schema]()
      * Open data in CausalR:
 
- Each of these resources captures, or is begining to capture causal
- information.  There are many commonalities between the causal information
- being captured.  This site aims to document and align the vocabularies and
- semantics used by each of these resources.
+Each of these resources captures, or is begining to capture causal information.  There are many commonalities between the causal information being captured: multiple resources record whether causal relations are -ve vs +ve, direct or indirect & record mechanism.
+ This site aims to document and align the vocabularies and semantics used by each of these resources.
+ 
+Differences between resources:
+
+**GO**: causal & regulatory *relations apply between the processes* that gene products are capable of.
+**IntAct, Signor, CausalR**: causal & regulatory *relations apply between gene products*.  Signor records the processes involved separately as 'mechanism'
   
  Repository structure:
 
