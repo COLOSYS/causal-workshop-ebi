@@ -68,17 +68,17 @@
 
 P22204 increases activity of P38074
 
-![](media/image1.png)
+![](images/media/image1.png)
 
-![](media/image2.png)
+![](images/media/image2.png)
 
 > **PMID: 20478527** EBI-2678807
 >
 > P11308 inhibits expression at RNA level of ENSG00000167751
 >
-> ![](media/image3.png)
+> ![](images/media/image3.png)
 >
-> ![](media/image4.png)
+> ![](images/media/image4.png)
 >
 > **PMID: 23910378** EBI-8795658
 >
