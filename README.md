@@ -13,6 +13,8 @@ Languages:
   * [OpenBel](http://wiki.openbel.org/display/BLD/Statement+Examples+-+Causal)
     * Open data in OpenBel: 
     * [RDF conversion available](http://wiki.openbel.org/display/BEL2RDF/BEL+to+RDF+Home)
+    * 
+  * [BioPax](http://www.biopax.org/)
     
 Tools:
   * [CausalR]()  - [schema]()
