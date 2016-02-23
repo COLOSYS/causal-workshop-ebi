@@ -45,6 +45,7 @@
 >                       increases degradation of protein levels of
 >
 > Is required for
+>
 > has no effect on
 
 1.  Causality statements should be made using UniProtKB, ChEBI or Ensembl identifiers as appropriate
