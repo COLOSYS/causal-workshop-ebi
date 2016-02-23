@@ -12,13 +12,13 @@
 >
 >        increases activity of (Up-regulates)
 >
->           increase quantity of
+>           increases quantity of
 >
->               increase expression of
+>               increases expression of
 >
->                   increase expression at RNA level of
+>                   increases expression at RNA level of
 >
->                   increase expression at protein level of
+>                   increases expression at protein level of
 >
 >               decreases degradation of
 >
@@ -30,21 +30,22 @@
 >
 >           decreases activity of (Down-regulates)
 >
-> decreased quantity of
+>               decreases quantity of
 >
-> decreases expression of
+>                   decreases expression of
 >
-> decreases expression at RNA level of
+>                       decreases expression at RNA level of
 >
-> decreases expression at protein level of
+>                       decreases expression at protein level of
 >
-> increases degradation of
+>                   increases degradation of
 >
-> increases degradation of RNA level of
+>                       increases degradation of RNA level of
 >
-> increases degradation of protein levels of
+>                       increases degradation of protein levels of
 >
 > Is required for
+> has no effect on
 
 1.  Causality statements should be made using UniProtKB, ChEBI or Ensembl identifiers as appropriate
 
