@@ -10,21 +10,21 @@
 
 > activates
 >
->   increases activity of (Up-regulates)
+>    increases activity of (Up-regulates)
 >
->       increase quantity of
+>        increase quantity of
 >
->           increase expression of
+>             increase expression of
 >
->           increase expression at RNA level of
+>               increase expression at RNA level of
 >
->           increase expression at protein level of
+>               increase expression at protein level of
 >
-> decreases degradation of
+>           decreases degradation of
 >
-> decreases degradation of RNA level of
+>               decreases degradation of RNA level of
 >
-> decreases degradation of protein levels of
+>               decreases degradation of protein levels of
 >
 > inhibits
 >
