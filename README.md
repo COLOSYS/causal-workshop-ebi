@@ -21,10 +21,21 @@ Tools:
 Each of these resources captures, or is begining to capture causal information.  There are many commonalities between the causal information being captured: multiple resources record whether causal relations are -ve vs +ve, direct or indirect & record mechanism.
  This site aims to document and align the vocabularies and semantics used by each of these resources.
  
+ Strategy for sharing data:
+ 
+We recognise that each resource already has a representation that is doing useful work, so we seek to map existing schemas rather than propose changes.  To do this we will:  
+ 
+ * Map all entities to standard ontology classes/relations.
+ * Map statements to a language with defined semantics: RDF triples?  OWL? ...
+ 
+ 
+ 
 Differences between resources:
 
-**GO**: causal & regulatory *relations apply between the processes* that gene products are capable of.
-**IntAct, Signor, CausalR**: causal & regulatory *relations apply between gene products*.  Signor records the processes involved separately as 'mechanism'
+* **IntAct, Signor, CausalR**: causal & regulatory *relations apply between gene products*.  Signor records the processes involved separately as 'mechanism', maintaining the association between regulation and process within each statement.
+* **GO**: causal & regulatory *relations apply between the processes* that gene products are capable of.  This has some advantages.  A gene product may have multiple functions - only one of which is a mechanism for regulating the activity of a second gene product.
+
+
   
  Repository structure:
 
