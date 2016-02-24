@@ -68,6 +68,8 @@ GP1 capable\_of some (phosphorylation that regulates\_activity\_of GP2)
 #### Mapping table
 
 | resource name | relation name | relation ID | ontology relation name | ontology relation ID |
+|---------------|---------------|-------------|------------------------|----------------------|
+|  |  |  |  |  |
 
 ### Repository structure:
 
