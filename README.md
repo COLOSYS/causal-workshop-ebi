@@ -39,10 +39,10 @@ We recognise that each resource already has a representation that is doing usefu
 
 One obvious way to bridge this gap is for RO can define shortcut relations mapping to the GP:GP relations in other resources, something like this:
 
-* has\_activity\_that\_positively\_regulates\_activity\_of:
+* name: has\_activity\_that\_positively\_regulates\_activity\_of
 * xref: signor:activates
 * xref: causalR:activates
-* Property chain: capable_of o regulates o enables -> has\_activity\_that\_regulates\_activity\_of
+* Property chain: capable_of o positively_regulates o enables -> has\_activity\_that\_regulates\_activity\_of
 
 Where mechanism is recorded, we could potentially use a simpler relation:
 
