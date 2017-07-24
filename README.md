@@ -1,13 +1,19 @@
-This repository is intended for developing and documenting mappings
-between resources/langauages capturing causal reasoning information in molecular
-and cellular biology.
+### Introduction
 
-**Resources:**
+A causal relationship is defined by a correlation between two events or elements where one influences the other. In Molecular Biology, causality underlies the principles of interactions between biological components, for instance in governing regulatory mechanisms. Consequently, the understanding of these interactions and the mechanisms that they enable, involved in biological regulations (e.g., gene regulation) is to be improved by looking at the core interactions happening among entities. Once causality is established, the next challenge is to adequately represent and archive it so that it can be shared and used by computers and humans alike.
+This repository is intended for:
+* providing a state of the art of existing resources and formal representations depicting causal relationships among biological components
+* developing and documenting mappings between resources/languages capturing causal reasoning information in Molecular and Cellular biology.
+
+
+**Existing Resources depicting causal relationships:**
   * [The Gene Ontology](http://geneontology.org) - [schema_docs](doc/GO)
   * [GRECO](http://www.thegreco.org)  - [schema_docs](doc/GRECO)
   * [Signor](http://signor.uniroma2.it/)  - [schema_docs](doc/Signor)
   * [SignaLink](http://signalink.org/)  - [schema_docs](doc/SignaLink)
   * [InTact](http://www.ebi.ac.uk/intact/)  - [schema_docs](doc/InTact)
+  * [Causal Biological Network](http://causalbionet.com/) - [schema_docs](doc/CBN)
+  * [Reactome](http://www.reactome.org/) - [schema_docs](doc/Reactome)
  
 **Languages:**
   * [OpenBel](http://wiki.openbel.org/display/BLD/Statement+Examples+-+Causal)
@@ -15,6 +21,8 @@ and cellular biology.
     * [RDF conversion available](http://wiki.openbel.org/display/BEL2RDF/BEL+to+RDF+Home)
     * 
   * [BioPax](http://www.biopax.org/)
+  * [SBMLqual](http://sbml.org/Documents/Specifications/SBML_Level_3/Packages/qual)
+  * [CausalTAB](http://signor.uniroma2.it/scripts/causalTabInfo.php)
     
 **Tools:**
   * [CausalR](https://www.bioconductor.org/packages/release/bioc/html/CausalR.html)  - [schema]()
