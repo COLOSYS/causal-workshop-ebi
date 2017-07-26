@@ -94,5 +94,9 @@ GP1 capable\_of some (phosphorylation that regulates\_activity\_of GP2)
        README.md
      IntAct/
        README.md
+     CBN/
+       README.md
+     Reactome/
+       README.md
 ~~~~~~~~~~~~
   
