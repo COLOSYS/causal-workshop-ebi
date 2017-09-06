@@ -1,4 +1,4 @@
-Regulatory relationship	GO	Signalink	IntAct	Signor	Greco	CausalR
-regulates 	regulates 					
-positively regulates 	positively regulates 					
-negatively regulates 	negatively regulates 					
+Regulatory relationship	GO	Signalink	IntAct	Signor	Greco	CausalR	BEL
+regulates 	regulates 	unknown effect 		causal statement			regulates
+positively regulates 	positively regulates 	stimulation 		up-regulates			increases
+negatively regulates 	negatively regulates 	inhibition 		down-regulates			decreases
